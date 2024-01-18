@@ -1,9 +1,9 @@
 package main
 
 import (
-	"GoSM/myUtils"
-	"GoSM/myUtils/myhttp"
 	"fmt"
+	"github.com/c0rdXy/GoSM/myUtils"
+	"github.com/c0rdXy/GoSM/myUtils/myhttp"
 	"log"
 	"time"
 )

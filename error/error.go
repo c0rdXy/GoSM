@@ -1,10 +1,10 @@
 package error
 
 import (
-	"GoSM/myUtils"
-	"GoSM/myUtils/myhttp"
-	"GoSM/myUtils/output"
 	"fmt"
+	"github.com/c0rdXy/GoSM/myUtils"
+	"github.com/c0rdXy/GoSM/myUtils/myhttp"
+	"github.com/c0rdXy/GoSM/myUtils/output"
 	"regexp"
 	"strings"
 )

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"GoSM/bool-blind2"
-	"GoSM/error"
-	"GoSM/myUtils/output"
 	"flag"
 	"fmt"
+	"github.com/c0rdXy/GoSM/bool-blind2"
+	"github.com/c0rdXy/GoSM/error"
+	"github.com/c0rdXy/GoSM/myUtils/output"
 	"log"
 )
 
