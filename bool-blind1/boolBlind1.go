@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-var baseURL1 = "http://127.0.0.1/sql-lab/Less-8/?id="
+var baseURL1 = "http://127.0.0.1/sql-lab/Less-8/?id=1"
 
 func measureTime(start time.Time, name string) {
 	elapsed := time.Since(start)
